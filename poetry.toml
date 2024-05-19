@@ -1,0 +1,6 @@
+[virtualenvs]
+create = true
+
+# If you need below - do it locally, and do not commit
+#create = true
+#in-project = true
